@@ -1,0 +1,11 @@
+export const GALLERY_IMAGES = [
+  "/img1.JPG",
+  "/img2.JPG",
+  "/img3.JPG",
+  "/img4.JPG",
+  "/img5.JPG",
+  "/img6.JPG",
+  "/img7.JPG",
+  "/img8.JPG",
+  "/img9.JPG",
+];
